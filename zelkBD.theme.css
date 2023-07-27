@@ -80,7 +80,7 @@
   --text-positive: var(--text-normal);
   --text-muted: #6d8692;
   --text-link: #edf8fe;
-  --interactive-selected: #edf8fe;
+  --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
   --interactive-muted: var(--button-background-active);
