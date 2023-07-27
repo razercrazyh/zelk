@@ -8,7 +8,7 @@
   --background-mentioned-hover: #ffffff15 !important;
   --background-modifier-hover: #2a2a2a !important;
   --background-modifier-active: #5d5d5d !important;
-  --text-normal: #f0f3f5 !important;
+  --text-normal: var(--accent-color) !important;
   --text-positive: #6ee1b6 !important;
   --text-muted: #909090 !important;
   --text-link: var(--text-normal) !important;
