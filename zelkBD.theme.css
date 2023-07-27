@@ -76,11 +76,11 @@
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
-  --text-normal: #edf8fe;
+  --text-normal: var(--accent-color);
   --text-positive: var(--text-normal);
   --text-muted: #6d8692;
   --text-link: #edf8fe;
-  --interactive-selected: var(--background-primary);
+  --interactive-selected: #edf8fe;
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
   --interactive-muted: var(--button-background-active);
